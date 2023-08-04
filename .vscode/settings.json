@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "set": "cpp",
+        "ostream": "cpp",
+        "unordered_set": "cpp"
+    }
+}

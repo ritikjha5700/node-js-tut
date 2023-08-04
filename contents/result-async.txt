@@ -1,0 +1,1 @@
+Here is the new result: Hello this is from first txt file, Hello this is from second txt file
